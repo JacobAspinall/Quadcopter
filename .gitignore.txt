@@ -1,0 +1,12 @@
+/.jxbrowser-data
+/.metadata
+/RemoteSystemsTempFiles
+/Quadcopter/.launches
+/Quadcopter/.settings
+/Quadcopter/Debug
+/Quadcopter/targetConfigs
+/Quadcopter/.ccsproject
+/Quadcopter/.cproject
+/Quadcopter/.project
+/Quadcopter/tm4c123gh6pm
+/Quadcopter/tm4c123gh6pm_startup_ccs
